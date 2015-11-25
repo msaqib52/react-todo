@@ -1,5 +1,5 @@
 {
-  "name": "thumbnail",
+  "name": "react-todo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -22,5 +22,9 @@
     "reactify": "^1.1.0",
     "vinyl-source-stream": "^1.1.0",
     "watchify": "^2.4.0"
+  },
+  "devDependencies": {
+    "gulp-sass": "^2.0.4",
+    "gulp-watch": "^4.3.5"
   }
 }
